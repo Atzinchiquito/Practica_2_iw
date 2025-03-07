@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:beige;
+}
+
+body{
+    color: white;
+}
+
+.gif1{
+    text-align: center;
+}
+
